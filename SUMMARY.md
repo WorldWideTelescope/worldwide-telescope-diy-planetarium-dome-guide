@@ -1,7 +1,7 @@
 #Summary
 
 * [Introduction](README.md)(domesupport.md)
-* [Construction of the Dome Support](domesupport.md#to-construct-a-smaller-dome-support)
+* [Construction of the Dome Support](domesupport.md)
   * [To Construct a Smaller Dome Support](domesupport.md#the-dome-specification-utility)
   * [The Dome Specification Utility](domesupport.md#dome-specification-utility)
 * [Construction of the Dome](dome.md)
