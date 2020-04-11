@@ -248,4 +248,4 @@ Note that the utility requires scripts to be run, so if you get a security
 warning, be sure to **Allow Blocked Content**. Note also that angles _do not_
 change with the size of the dome.
 
-##### [Dome Specification utility](DomeSpecs.html)
+##### [Dome Specification utility](domespecs.html)
