@@ -24,7 +24,7 @@ To construct the dome, go through the following procedure:
    * Paint brushes, cleaning materials, newspaper.
 5. Very carefully draw out and then cut out the template triangles. Two sizes
    of triangle are necessary, labeled as A and B in the following diagrams:
-   ![](planetariumimages/Triangle48.jpg)
+   ![](Triangle48.jpg)
    Use the full width of the 48 inch sheets.
 
    To draw the triangle you can use a sharp point with a string 48 inches
@@ -39,7 +39,7 @@ To construct the dome, go through the following procedure:
    in addition to this. This is possible on a sheet of cardboard only 48
    inches wide by having the tapered flaps shown at the corners._
 
-   ![](planetariumimages/Triangle41.png)
+   ![](Triangle41.png)
 
    After cutting out the template, 30 triangles of type B are needed. This
    will require 30 48 x 48 inch sheets, or 10 48 x 96 inch sheets, as three
@@ -74,7 +74,7 @@ To construct the dome, go through the following procedure:
     completely, but paint over the edges of the triangles and into the flap
     area to ensure good coverage.
 
-    ![](planetariumimages/PaintingIsFun.png)
+    <!-- ![](planetariumimages/PaintingIsFun.png) NOT FOUND -->
 
     Painting is fun — though is usually done on a flat level surface!
 
@@ -104,14 +104,14 @@ To construct the dome, go through the following procedure:
     strips should be 3 inches wide, folded at 1 and 2 inches along the entire
     length of the strip.
 
-   ![](planetariumimages/PaperFolder.png)
+   <!-- ![](planetariumimages/PaperFolder.png) NOT FOUND -->
 
    A paper folding machine is the best approach to getting very straight folds.
 
    If such a folding machine is not available, try other long straight edges
    such as a metal ruler.
 
-   ![](planetariumimages/Shades.png)
+   <!-- ![](planetariumimages/Shades.png) NOT FOUND -->
 
    First mark a sheet of black paper where it needs to be cut and folded. Then
    fold the sheet twice to create the quarter inch square end. Then cut out
@@ -120,7 +120,7 @@ To construct the dome, go through the following procedure:
    The image shows a quarter inch fold for the triangles, and a one inch fold
    for the base.
 
-   ![](planetariumimages/PentagonShades.png)
+   <!-- ![](planetariumimages/PentagonShades.png) NOT FOUND -->
 
    A pentagon with shades attached.
 
@@ -131,7 +131,7 @@ To construct the dome, go through the following procedure:
     the center of the pentagon about 9 inches. Ensure there is enough space
     around so that these pentagons are not stepped on.
 
-    ![](planetariumimages/Pentagon.png)
+    ![](Pentagon.png)
 
     The outside edges of the pentagon should all be the longer 48 inch sides.
 
@@ -140,18 +140,18 @@ To construct the dome, go through the following procedure:
 17. With a lot of labor assistance (a minimum of five people works well),
     assemble the dome in the order shown in the following diagram:
 
-    ![](planetariumimages/DecagonOrder.png)
+    ![](DecagonOrder.png)
 
     Note that the central polygon is the very last piece to be assembled. The
     dome will be quite floppy until this is done, and a lot of hands are
     helpful at this stage.
 
-    ![](planetariumimages/PentagonsClippedTogether.png)
+    <!-- ![](planetariumimages/PentagonsClippedTogether.png) NOT FOUND -->
 
     When building the dome try to align the points and edges as accurately as
     possible before proceeding to the next.
 
-    ![](planetariumimages/HoldingUptheDome.png)
+    <!-- ![](planetariumimages/HoldingUptheDome.png) NOT FOUND -->
 
     The critical stage in assembly is having enough hands inside the dome to
     complete all but the top pentagon.
@@ -175,7 +175,7 @@ To construct the dome, go through the following procedure:
 21. Use the 20 heavy duty clips to attach the dome to the support, two clips
     per side.
 
-    ![](planetariumimages/PlanetariumA.png)
+    <!-- ![](planetariumimages/PlanetariumA.png) NOT FOUND -->
 
     The height of the dome when it is on the floor and before it is tilted is
     just under 6.5 feet. After the 20 degree tilt the height is about 6 feet.
@@ -184,7 +184,7 @@ To construct the dome, go through the following procedure:
 
 23. Open up a door and go inside!
 
-    ![](planetariumimages/PaintingBlackandGrey.png)
+    <!-- ![](planetariumimages/PaintingBlackandGrey.png) NOT FOUND -->
 
 ### To Construct a Smaller Dome
 
@@ -195,7 +195,7 @@ triangle with a 36 inch base and two sides of 31 3/8 inches.
 The height of a planetarium of this size is around 7 feet. The following
 images shows the relative sizes of the domes.
 
-![](planetariumimages/Planetarium34.jpg)
+<!-- ![](planetariumimages/Planetarium34.jpg) NOT FOUND -->
 
 | 48 inch triangle planetarium | 36 inch triangle planetarium |
 | :-- | :-- |
@@ -226,7 +226,7 @@ Pics of fan and box
    consider painting the hooks and covering the cable inside the planetarium
    with black tape.
 
-   ![](planetariumimages/Wiring.jpg)
+   <!-- ![](planetariumimages/Wiring.jpg) NOT FOUND -->
 
    The cable in this image has been left red to show its course. Covering the
    cable with black tape for the inside section ensures minimal reflectivity.
@@ -245,7 +245,7 @@ taller viewers can use the seats at the back. The exact layout depends on the
 number of viewers you plan to accommodate at any one time - all carpeting and
 no seats, or all seats and no carpeting, are obviously options too.
 
-![](planetariumimages/Seating4.jpg)
+<!-- ![](planetariumimages/Seating4.jpg) NOT FOUND -->
 
 The seats, similar to all items under the dome, should be as matt black as
 possible.
@@ -258,7 +258,7 @@ possible.
 
    [High Quality Mirrors](#highqualitymirrors)
 
-   ![](planetariumimages/Mirrors.jpg)
+   <!-- ![](planetariumimages/Mirrors.jpg) NOT FOUND -->
 
    Experimenting with different sizes of spherical mirror. The smaller,
    approximately 9 inch radius, worked well in our tests.
@@ -268,7 +268,7 @@ possible.
    gives a 16 x 9 aspect ratio). Such a projector will require a DVI or HDMI
    cable
 
-   ![](planetariumimages/DVICable.jpg)
+   <!-- ![](planetariumimages/DVICable.jpg) NOT FOUND -->
 
    A DVI cable.
 
@@ -282,7 +282,7 @@ possible.
    both take a variable size of mirror, and have the angle of the mirror
    finely adjusted.
 
-   ![](planetariumimages/MirrorInPlace.jpg)
+   <!-- ![](planetariumimages/MirrorInPlace.jpg) NOT FOUND -->
 
 8. The projector needs to be placed pointing up at the mirror so that the
    image is reflected off the mirror to fill the dome, but not the dome
@@ -294,11 +294,11 @@ possible.
    in both side to side, and up and down directions, and is variable in height
    from around 24 to 40 inches.
 
-   ![](planetariumimages/DirectProjection.jpg)
+   <!-- ![](planetariumimages/DirectProjection.jpg) NOT FOUND -->
 
    Primary projection.
 
-   ![](planetariumimages/ProjectorStand.jpg)
+   <!-- ![](planetariumimages/ProjectorStand.jpg) NOT FOUND -->
 
    Even though a music stand is designed to hold just paper, a sturdy one can
    easily support and hold a projector at an angle.
@@ -312,18 +312,18 @@ possible.
     mirror, and spherical mirror now all have to be aligned simultaneously and
     correctly.
 
-    ![](planetariumimages/SecondaryProjection.jpg)
+    <!-- ![](planetariumimages/SecondaryProjection.jpg) NOT FOUND -->
 
     Secondary projection.
 
-    ![](planetariumimages/SecondaryShelf.jpg)
+    ![](SecondaryShelf.jpg)
 
     To use the secondary mirror method of projection, first install a shelving
     system that enables a variation in the height of the projector. The shelf
     itself should be about 24 inches wide and 13 inches deep - though this
     does obviously depend on the size of the projector you intend to use.
 
-    ![](planetariumimages/SecondaryMirror.jpg)
+    ![](SecondaryMirror.jpg)
 
     Place the projector on the shelf so that the lens is centered - which is
     why the shelf should be 24 inches wide, and not simply the width of a

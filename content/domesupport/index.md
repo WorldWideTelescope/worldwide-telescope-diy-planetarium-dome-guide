@@ -28,7 +28,7 @@ parallel. To construct the dome support, go through the following procedure:
      horses, and so on.
 5. Understand the shapes involved. Both the dome and dome support are based on
    a decagon - 10 sided figure - shown in the following diagram:
-   ![](./planetariumimages/DecagonBefore.jpg) The dome is a decagon - each
+   ![](./DecagonBefore.jpg) The dome is a decagon - each
    side is 48 inches.
 
    Each inside angle is 144 degrees.
@@ -36,14 +36,14 @@ parallel. To construct the dome support, go through the following procedure:
    The front to back diameter is 147.72 inches. The side to side diameter is
    155.32 inches.
 
-   ![](planetariumimages/DecagonAfter.jpg)
+   ![](DecagonAfter.jpg)
 
    After tilting 20 degrees the plan view of the support becomes an
    elliptical, rather than regular, decagon. The top edge of each panel is 48
    inches, but the widths of the other panels vary - 48 inches for the
    rectangular panels. but 47.02 inches and 45.4 inches for the angled panels.
 
-   ![](planetariumimages/Dome%20profile.jpg)
+   ![](Dome%20profile.jpg)
 
    The dome support profile.
 7. Cut out, or have cut out for you, the 10 side panels in 0.5 inch
@@ -72,35 +72,35 @@ parallel. To construct the dome support, go through the following procedure:
     Before starting on the angled cuts, cut the 2 x 3 wood into 10 inch
     lengths (20 are needed).
 
-    ![](planetariumimages/BlockConnectorA.jpg)
+    ![](BlockConnectorA.jpg)
 
     Block A. Eight of these are needed. After cutting them out mark them with
     an "A", as the angles of all blocks are very similar.
 
     The exact angles here are 72.85 and 17.15 degrees.
 
-    ![](planetariumimages/BlockAJig.jpg)
+    ![](BlockAJig.jpg)
 
     Note the 73 degree template block has been marked and clamped to the miter
     saw.
 
-    ![](planetariumimages/BlockConnectorB.jpg)
+    ![](BlockConnectorB.jpg)
 
     Block B. Eight of these are needed. Mark these with a "B".
 
     The exact angles here are 71.7 and 18.3 degrees.
 
-    ![](planetariumimages/BlockBJig.jpg)
+    ![](BlockBJig.jpg)
 
     Make a 72 degree template block to start with. Then cut out eight B blocks.
 
-    ![](planetariumimages/BlockConnectorC.jpg)
+    ![](BlockConnectorC.jpg)
 
     Block C. Only four of these are needed. Mark them with a "C".
 
     The exact angles here are 70.9 and 19.1 degrees.
 
-    ![](planetariumimages/BlockCJig2.jpg)
+    ![](BlockCJig2.jpg)
 
     Make a 71 degree template block to start with. Then cut out four C blocks.
 
@@ -109,7 +109,7 @@ parallel. To construct the dome support, go through the following procedure:
     door will open to the outside, so there is no need for a handle on the
     inside.
 
-    ![](planetariumimages/Door.jpg)
+    ![](Door.jpg)
 
     The door height will be more suitable for children than for adults.
 
@@ -124,8 +124,8 @@ parallel. To construct the dome support, go through the following procedure:
     Add a second door to the other side of the dome support - to provide both
     an "In" and an "Out", and a fire escape.
 
-    ![](planetariumimages/ImprovedDoor.jpg)
-    ![](planetariumimages/ImprovedDoorInside.jpg)
+    ![](ImprovedDoor.jpg)
+    ![](ImprovedDoorInside.jpg)
 
     Note the 2 x 2 inch wood used to strengthen both the side of the door
     frame containing the hinges, and across the bottom of the door opening.
@@ -148,14 +148,14 @@ parallel. To construct the dome support, go through the following procedure:
     screws drilled into place but not tightened to the max until the whole
     support is in place.
 
-    ![](planetariumimages/DecagonBlocks.jpg)
+    ![](DecagonBlocks.jpg)
 
     Note the positions of the A, B and C blocks, and that there are two of
     them per joint.
 
     A plan view of the dome support shows it to be an elliptical decagon.
 
-    ![](planetariumimages/FirstBlock.jpg)
+    <!-- ![](planetariumimages/FirstBlock.jpg) NOT FOUND -->
 
     The first block. Use an A block to connect the shortest rectangular panel
     with the shortest angled panel.
@@ -164,7 +164,7 @@ parallel. To construct the dome support, go through the following procedure:
 
     Then add the matching shortest angled panel to the other side.
 
-    ![](planetariumimages/BlockProgression.jpg)
+    <!-- ![](planetariumimages/BlockProgression.jpg) NOT FOUND -->
 
     The progression. Moving left and right assemble the dome support panels
     from the shortest towards the tallest panel.
@@ -174,7 +174,7 @@ parallel. To construct the dome support, go through the following procedure:
     can be. Minor mismatches in the heights of the panels is dealt with when
     screwing in the ledges.
 
-    ![](planetariumimages/BlocksDone.jpg)
+    <!-- ![](planetariumimages/BlocksDone.jpg) NOT FOUND -->
 
     Note the positions of the top joint blocks a few inches below the rim.
 
@@ -190,7 +190,7 @@ parallel. To construct the dome support, go through the following procedure:
 16. Using a 2 inch diameter hole drilling bit (or similar) - drill out a grid
     of 3 x 4 or 4 x 4 holes to be used to vent the planetarium.
 
-    ![](planetariumimages/Grill.jpg)
+    <!-- ![](planetariumimages/Grill.jpg) NOT FOUND -->
 
     A small extractor fan will be added to the dome support at a later stage,
     to provide some airflow.
@@ -198,7 +198,7 @@ parallel. To construct the dome support, go through the following procedure:
     pieces of wood.
 19. Paint the inside of the dome support a flat matt black.
 
-    ![](planetariumimages/BlackPaint.jpg)
+    <!-- ![](planetariumimages/BlackPaint.jpg) NOT FOUND -->
 
     Make sure to paint around all the blocks, the door supports, and the top
     of the ledges. Also paint the insides of the vent holes, and the edges of
