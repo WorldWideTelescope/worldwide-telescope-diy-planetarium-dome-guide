@@ -1,4 +1,7 @@
-## Construction of the Dome
++++
+title = "Construction of the Dome"
+weight = 200
++++
 
 To construct the dome, go through the following procedure:
 

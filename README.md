@@ -1,15 +1,72 @@
-# WorldWide Telescope Planetarium
+# WWT D.I.Y. Planetarium Dome Guide: Source Code
 
-This  document describes how to build a planetarium for use with WorldWide Telescope.
+This repository contains the source code for the [WWT Do-It-Yourself Planetarium Dome Guide].
+The `master` branch of this repo gets published here:
 
-![](planetariumimages/FinishedOne.jpg)
+### https://docs.worldwidetelescope.org/diy-planetarium-dome/1/
 
-The planetarium provides schools and other groups with a great way to visualize the panoramic view of the universe provided by WorldWide Telescope.
+[WWT Do-It-Yourself Planetarium Dome Guide]: https://docs.worldwidetelescope.org/diy-planetarium-dome/1/
 
-The planetarium described here is just under 12.5 feet in diameter, and just over 9 feet tall. So the first step is finding a suitable location for it! The materials used are not suitable for an outside location, so the location should be inside, level and dry. Alternative measurements are given for a smaller (9 feet diameter) planetarium, though all the images in this document are for the 12.5 feet model. Measurements are given in inches as this is the most used unit for packing materials and particleboard, which are the main construction materials used - 48 inch wide corrugated cardboard, and 48 inch wide particleboard paneling are both easy to come by. The [Dome Specification Utility](#the-dome-specification-utility) can be used if metric measurements are preferred.
+If you’re just interested in the documentation itself, you should go to that
+website. If you’re interested in *contributing* to this documentation, you’ve
+come to the right place!
 
-One of the most interesting features of the dome is that it is tilted at an angle of 20 degrees. This makes construction a little more complex, but the design gives a much better experience. The idea is that students will feel they are traveling in a space ship _towards_ a planet such as Saturn, which would not be the case if the view was vertical. The tilt also gives room for a reasonable pair of doors, and room for the projector and mirror, without excessive height. The cost to this though is that constructing the dome support is as involved as constructing the dome (a geodesic half-dome to be precise) itself.
 
-Costs for materials vary, however a reasonable budget for the dome and support components is US $700.00 at 2009 prices. In addition to this a spherical mirror is required, optionally a flat secondary mirror, and a suitable projector. Tools are not included in our budgeting, as they are common household tools that many teachers and parents will own already. A laptop running WorldWide Telescope is obviously not included in the budgeting either.
+## Quick Start for the Initiated
 
-Note that a number of the tasks involve the use of cutting tools and power saws, so responsible adult involvement in the project is essential.
+The guide is a static site written in [CommonMark Markdown] and processed
+with [Zola]. Zola is distributed as a single executable so it is ridiculously
+[easy to install][install-zola].
+
+This repository is themed by referencing [zola-wwtguide] as a submodule, so
+upon first checkout you’ll have to run:
+
+```
+git submodule update --init
+```
+
+Once everything is set up, all you have to do is run
+
+```
+zola serve
+```
+
+to build the site and serve it locally for testing. The command `zola check`
+will check the build and verify that outgoing links are valid. Zola has
+[lots of documentation][zola-docs].
+
+[CommonMark Markdown]: https://commonmark.org/
+[Zola]: https://getzola.org/
+[install-zola]: https://www.getzola.org/documentation/getting-started/installation/
+[zola-wwtguide]: https://github.com/WorldWideTelescope/zola-wwtguide
+[zola-docs]: https://www.getzola.org/documentation/getting-started/overview/
+
+Merges to `master` will be published automatically using WWT’s continuous
+deployment infrastructure.
+
+
+## Contributing
+
+Contributions are welcome! If you’re new to the project, please see the
+[WWT Contributors’ Guide] and the [WWT Code of Conduct]. We operate with a
+standard [fork-and-pull] model.
+
+[WWT Contributors’ Guide]: https://worldwidetelescope.github.io/contributing/
+[WWT Code of Conduct]: https://worldwidetelescope.github.io/code-of-conduct/
+[fork-and-pull]: https://help.github.com/en/articles/about-collaborative-development-models
+
+
+## Acknowledgments
+
+The AAS WorldWide Telescope system is a [.NET Foundation] project managed by
+the non-profit [American Astronomical Society] (AAS). Work on WWT has been
+supported by the AAS, the US [National Science Foundation] (grants [1550701]
+and [1642446]), the [Gordon and Betty Moore Foundation], and [Microsoft].
+
+[.NET Foundation]: https://dotnetfoundation.org/
+[American Astronomical Society]: https://aas.org/
+[National Science Foundation]: https://www.nsf.gov/
+[1550701]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550701
+[1642446]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1642446
+[Gordon and Betty Moore Foundation]: https://www.moore.org/
+[Microsoft]: https://www.microsoft.com/

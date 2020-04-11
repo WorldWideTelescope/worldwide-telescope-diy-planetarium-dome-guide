@@ -1,0 +1,17 @@
+resources:
+  repositories:
+    - repository: wwtguide
+      type: github
+      name: WorldWideTelescope/zola-wwtguide
+      endpoint: wwtelescope
+
+jobs:
+- template: azure-build-and-publish.yml@wwtguide
+  parameters:
+    azureServiceConnectionName: 'aas@wwtadmindotnetfoundation'
+    storageAccountName: 'wwtwebstatic'
+    cdnEndpointName: 'wwtwebdocs-prod'
+    cdnProfileName: 'wwt-cdn-01'
+    cdnPubPrefix: '/diy-planetarium-dome/1'
+    cdnResourceGroupName: 'wwt-web01'
+    pubPrefix: '_docs/diy-planetarium-dome/1'

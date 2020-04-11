@@ -1,4 +1,7 @@
-## Construction of the Dome Support
++++
+title = "Construction of the Dome Support"
+weight = 100
++++
 
 Construction of the dome, and the dome support can largely proceed in parallel. To construct the dome support, go through the following procedure:
 
