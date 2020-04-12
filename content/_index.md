@@ -7,7 +7,7 @@ insert_anchor_links = "right"
 This document describes how to build a planetarium for use with WorldWide
 Telescope.
 
-<!-- ![](planetariumimages/FinishedOne.jpg) NOT FOUND -->
+![](./finishedone.jpg)
 
 The planetarium provides schools and other groups with a great way to
 visualize the panoramic view of the universe provided by WorldWide Telescope.
