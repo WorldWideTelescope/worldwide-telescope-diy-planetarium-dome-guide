@@ -19,7 +19,7 @@ weight = 300
 3. Select **Full Dome** from the **View** menu, then select **Dome Setup** to
    bring up the following dialog:
 
-   <!-- ![](DomeSetupDialog.jpg) NOT FOUND -->
+   ![](domesetupdialog.jpg)
 
    For most modern projectors the aspect ratio is 16:9, so set the **Dome
    Type** to **Mirrordome 16:9**. If you are using an older VGA projector,
@@ -45,5 +45,4 @@ weight = 300
    mouse can be awkward.
 7. Invite your students and peers!
 
-<!-- ![](FinishedThree.jpg) NOT FOUND -->
-
+![](finishedthree.jpg)
