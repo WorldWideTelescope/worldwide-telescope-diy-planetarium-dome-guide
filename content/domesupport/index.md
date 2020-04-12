@@ -155,7 +155,7 @@ parallel. To construct the dome support, go through the following procedure:
 
     A plan view of the dome support shows it to be an elliptical decagon.
 
-    <!-- ![](planetariumimages/FirstBlock.jpg) NOT FOUND -->
+    ![](firstblock.jpg)
 
     The first block. Use an A block to connect the shortest rectangular panel
     with the shortest angled panel.
@@ -164,7 +164,7 @@ parallel. To construct the dome support, go through the following procedure:
 
     Then add the matching shortest angled panel to the other side.
 
-    <!-- ![](planetariumimages/BlockProgression.jpg) NOT FOUND -->
+    ![](blockprogression.jpg)
 
     The progression. Moving left and right assemble the dome support panels
     from the shortest towards the tallest panel.
@@ -174,7 +174,7 @@ parallel. To construct the dome support, go through the following procedure:
     can be. Minor mismatches in the heights of the panels is dealt with when
     screwing in the ledges.
 
-    <!-- ![](planetariumimages/BlocksDone.jpg) NOT FOUND -->
+    ![](blocksdone.jpg)
 
     Note the positions of the top joint blocks a few inches below the rim.
 
@@ -190,7 +190,7 @@ parallel. To construct the dome support, go through the following procedure:
 16. Using a 2 inch diameter hole drilling bit (or similar) - drill out a grid
     of 3 x 4 or 4 x 4 holes to be used to vent the planetarium.
 
-    <!-- ![](planetariumimages/Grill.jpg) NOT FOUND -->
+    ![](grill.jpg)
 
     A small extractor fan will be added to the dome support at a later stage,
     to provide some airflow.
@@ -198,7 +198,7 @@ parallel. To construct the dome support, go through the following procedure:
     pieces of wood.
 19. Paint the inside of the dome support a flat matt black.
 
-    <!-- ![](planetariumimages/BlackPaint.jpg) NOT FOUND -->
+    ![](blackpaint.jpg)
 
     Make sure to paint around all the blocks, the door supports, and the top
     of the ledges. Also paint the insides of the vent holes, and the edges of
