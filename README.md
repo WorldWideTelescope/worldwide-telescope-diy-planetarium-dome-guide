@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/aasworldwidetelescope/WWT/_apis/build/status/WorldWideTelescope.worldwide-telescope-planetarium?branchName=master)](https://dev.azure.com/aasworldwidetelescope/WWT/_build/latest?definitionId=11&branchName=master)
+[![Build Status](https://dev.azure.com/aasworldwidetelescope/WWT/_apis/build/status/WorldWideTelescope.worldwide-telescope-diy-planetarium-dome-guide?branchName=master)](https://dev.azure.com/aasworldwidetelescope/WWT/_build/latest?definitionId=15&branchName=master)
 
 # WWT D.I.Y. Planetarium Dome Guide: Source Code
 
