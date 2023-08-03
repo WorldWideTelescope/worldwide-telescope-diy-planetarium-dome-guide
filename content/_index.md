@@ -21,7 +21,7 @@ are for the 12.5 feet model. Measurements are given in inches as this is the
 most used unit for packing materials and particleboard, which are the main
 construction materials used — 48 inch wide corrugated cardboard, and 48 inch
 wide particleboard paneling are both easy to come by. The
-[Dome Specification Utility](#the-dome-specification-utility) can be used if
+[Dome Specification Utility](domesupport/index.md#the-dome-specification-utility) can be used if
 metric measurements are preferred.
 
 One of the most interesting features of the dome is that it is tilted at an
