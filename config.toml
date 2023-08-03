@@ -1,8 +1,8 @@
-base_url = "//docs.worldwidetelescope.org/diy-planetarium-dome/1/"
+base_url = "https://docs.worldwidetelescope.org/diy-planetarium-dome/1/"
 title = "WWT Do-It-Yourself Planetarium Dome Guide"
 description = "How to build your own planetarium dome"
 theme = "wwtguide"
 
 [extra]
-github_base = "//github.com/WorldWideTelescope/worldwide-telescope-planetarium"
-google_analytics_id = "UA-107473046-3"
+github_base = "https://github.com/WorldWideTelescope/worldwide-telescope-planetarium"
+google_analytics_id = "G-D1J49XX0CV"

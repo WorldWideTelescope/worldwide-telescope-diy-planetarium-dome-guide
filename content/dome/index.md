@@ -256,7 +256,7 @@ possible.
 1. The mirror needs to be a half-dome spherical mirror as shown in the image
    below.
 
-   [High Quality Mirrors](#highqualitymirrors)
+   [High Quality Mirrors](#high-quality-mirrors)
 
    ![](mirrors.jpg)
 
