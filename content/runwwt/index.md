@@ -1,5 +1,5 @@
 +++
-title = "Run AAS WorldWide Telescope in Your Dome"
+title = "Run WorldWide Telescope in Your Dome"
 weight = 300
 +++
 
@@ -9,7 +9,7 @@ weight = 300
    in this case run all the tours you might need once (which stores them
    locally) whilst connected to the internet, before removing the connection
    and moving to the dome.
-2. Run the AAS WorldWide Telescope Windows Client on the laptop. The Web
+2. Run the WorldWide Telescope Windows Client on the laptop. The Web
    Client (based on Silverlight) does not currently support the dome warping
    software, so make sure you are using the downloaded Windows Client version,
    and that the version number (which can be verified in the **About WorldWide

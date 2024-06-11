@@ -60,15 +60,10 @@ standard [fork-and-pull] model.
 
 ## Acknowledgments
 
-The AAS WorldWide Telescope system is a [.NET Foundation] project managed by
-the non-profit [American Astronomical Society] (AAS). Work on WWT has been
-supported by the AAS, the US [National Science Foundation] (grants [1550701]
-and [1642446]), the [Gordon and Betty Moore Foundation], and [Microsoft].
+Work on the WorldWide Telescope system has been supported by the [American
+Astronomical Society] (AAS), the [.NET Foundation], and other partners. See [the
+WWT user website][acks] for details.
 
-[.NET Foundation]: https://dotnetfoundation.org/
 [American Astronomical Society]: https://aas.org/
-[National Science Foundation]: https://www.nsf.gov/
-[1550701]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550701
-[1642446]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1642446
-[Gordon and Betty Moore Foundation]: https://www.moore.org/
-[Microsoft]: https://www.microsoft.com/
+[.NET Foundation]: https://dotnetfoundation.org/
+[acks]: https://worldwidetelescope.org/about/acknowledgments/
